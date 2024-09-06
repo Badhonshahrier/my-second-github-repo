@@ -10,8 +10,8 @@ li{
 }
 button{
     background-color: brown;
-    /* width: none; */
-    /* border: 5px solid green; */
+    width: none;
+    border: 5px solid green;
     padding: 50px;
     box-shadow: 10px solid red;
 }
